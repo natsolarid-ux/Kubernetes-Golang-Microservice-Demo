@@ -1,0 +1,11 @@
+﻿*.exe
+main
+*.test
+*.out
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
